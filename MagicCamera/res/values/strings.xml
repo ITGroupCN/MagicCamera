@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">魔幻相机</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="album_name">MagicCamera</string>
+    <string name="welcome_message">暂时还没有照片，请先拍照吧。</string>
+    <string name="use_local_camera">系统相机拍照</string>
+    <string name="use_magic_camera">魔幻相机拍照</string>
+    <string name="external_storage_unmounted">请检查SD卡是否挂载</string>
+</resources>
